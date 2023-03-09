@@ -1,6 +1,6 @@
 # Brute-force-is-timeout
 
-<img src="./image/logo.png" width="30%" height="15%">
+<img src="./logo.png" width="30%" height="15%">
 
 Welcome to the Brute-force-is-timeout organization! Our goal is to promote awareness of cybersecurity and help individuals and organizations protect themselves from cyber threats.
 
